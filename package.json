@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rebrec/hurry-example-smiley-test/issues"
   },
-  "homepage": "https://github.com/rebrec/hurry-example-smiley-test#readme"
+  "homepage": "https://github.com/rebrec/hurry-example-smiley-test#readme",
+  "devDependencies": {
+    "np": "^6.5.0"
+  }
 }
