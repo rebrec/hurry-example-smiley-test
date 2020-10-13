@@ -1,0 +1,22 @@
+{
+  "name": "hurry-smileytest-plugin",
+  "version": "1.0.0",
+  "description": "Hurry demonstration plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebrec/hurry-example-smiley-test.git"
+  },
+  "keywords": [
+    "hurry-admin-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebrec/hurry-example-smiley-test/issues"
+  },
+  "homepage": "https://github.com/rebrec/hurry-example-smiley-test#readme"
+}
